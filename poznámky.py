@@ -26,4 +26,7 @@ print("Jdi spát")
 # git add *
 #git commit -m "text"
 #git push
+#git clone(url adresa)
+#change directory(cd)
+#git pull
 # Vít Basák 
